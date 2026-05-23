@@ -1,0 +1,20 @@
+# Social media links and identifiers for the jekyll-socials plugin.
+# Icons appear at the bottom of the about page.
+# Docs: https://github.com/george-gca/jekyll-socials
+
+email: yh623@cam.ac.uk
+orcid_id: 0009-0009-5857-5783
+scholar_userid: U3KvP2QAAAAJ
+github_username: WindTakeMeNorth
+
+# RSS feed icon (al-folio auto-generates the feed at /feed.xml)
+rss_icon: true
+
+# Optional — uncomment when you have them:
+# semanticscholar_id:           # claim your Semantic Scholar author page first
+# linkedin_username:
+# twitter_username:
+# bluesky_url:
+# researchgate_username:
+# mastodon_url:
+# cv_pdf: /assets/pdf/cv.pdf    # path if you upload a CV PDF later
