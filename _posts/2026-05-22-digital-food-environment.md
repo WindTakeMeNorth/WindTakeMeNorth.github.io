@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The digital food environment — why food policy still ignores screens"
-date: 2026-05-29 09:00:00
+date: 2026-05-22 09:00:00
 description: Food-environment policy is still designed for what's on the street corner. In 2026 exposure is also shaped by what's on the screen. Here is the gap, and a measurement framework that could close it.
 tags: public-health food-environment TikTok algorithmic-exposure
 categories: research

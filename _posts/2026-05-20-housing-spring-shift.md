@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The spring shift — why the US housing market's seasonal peak moved"
-date: 2026-05-23 09:00:00
+date: 2026-05-20 09:00:00
 description: For thirty years US house prices peaked in May or June. Since 2021 they peak in March or April. Here is what changed, why it matters, and what to do about it.
 tags: housing economics seasonality
 categories: research

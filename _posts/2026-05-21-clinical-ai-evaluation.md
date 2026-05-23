@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three things clinical AI evaluation papers usually get wrong"
-date: 2026-05-26 09:00:00
+date: 2026-05-21 09:00:00
 description: A friendly methodological critique of how clinical LLM applications are being evaluated, drawn from two recent commentaries in JMIR AI and Clinical Imaging.
 tags: clinical-AI LLM RAG evaluation
 categories: research
