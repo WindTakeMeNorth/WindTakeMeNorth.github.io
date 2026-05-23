@@ -1,0 +1,57 @@
+# Yihan Hu
+
+> MPhil student in Health Data Science / Epidemiology at the University of Cambridge,
+> based across the MRC Epidemiology Unit, the MRC Biostatistics Unit, and the
+> Institute of Metabolic Science. Research focuses on nutritional epidemiology
+> (particularly ultra-processed foods and the digital food environment) and
+> spatial data science (with an emphasis on US-based applications, especially
+> post-pandemic housing market dynamics).
+
+## Identifiers
+
+- Email: yh623@cam.ac.uk
+- Personal site: https://windtakemenorth.github.io
+- ORCID: https://orcid.org/0009-0009-5857-5783
+- Google Scholar: https://scholar.google.com/citations?user=U3KvP2QAAAAJ&hl=en
+- GitHub: https://github.com/WindTakeMeNorth
+
+## Papers (open access where available)
+
+### Clinical AI evaluation
+
+- [Toward Retrieval-Grounded Evaluation for Conversational Large Language Model-Based Risk Assessment](https://windtakemenorth.github.io/publications/#hu2026retrieval): JMIR AI 2026. Argues that conversational clinical LLM applications should be evaluated under a retrieval-grounded protocol (citation faithfulness, evidence-grounded correctness, subgroup robustness) alongside AUC. DOI: 10.2196/90759.
+
+- [Comment on "Classifying the clinical significance of common breast pain symptoms using a large language model, ChatGPT (GPT-4)"](https://windtakemenorth.github.io/publications/#hu2026comment): Clinical Imaging 2026. Argues that end-to-end LLM clinical triage skips the intermediate clinical reasoning attributes (focality, cyclicity, red-flag features) that the rest of medicine uses. Proposes a two-step pipeline: attribute extraction then risk stratification.
+
+### Digital food environment and ultra-processed food policy
+
+- [Ultra-processed food policy must regulate the screen as well as the street](https://windtakemenorth.github.io/publications/#hu2026upf): The Lancet 2026. Argues that ultra-processed food policy needs an explicit digital track. Online food delivery platforms, social media food marketing, and algorithmic recommendation are now major exposure pathways but are not covered by current food-environment frameworks.
+
+- [Content prevalence is not adolescent exposure in TikTok influencer food marketing surveillance](https://windtakemenorth.github.io/publications/#hu2026tiktok): Public Health Nutrition 2026. On algorithm-driven platforms, content prevalence is not a clean proxy for adolescent exposure. Proposes three fixes: view-weighted prevalence, bounded sensitivity analysis for missing nutrient data, multi-product audit. DOI: 10.1017/S1368980026102213.
+
+### US housing market dynamics
+
+- [Seasonality in the US Housing Market: Post-Pandemic Shifts and Regional Dynamics](https://windtakemenorth.github.io/publications/#hu2025seasonality): Real Estate 2025. Using X-13-ARIMA on 33 years of FHFA and Census data, documents that the US housing market's seasonal peak shifted from May/June to March/April after 2020. The amplitude of the seasonal cycle has also grown. Co-author Yifei Huang (Northwestern). DOI: 10.3390/realestate2040022.
+
+- [From Summer to Spring: A Shift in US Housing Market Seasonality](https://windtakemenorth.github.io/publications/#hu2026summer): SSRN Working Paper 2026. Extends Ngai-Tenreyro (2014) search-and-matching to monthly frequency, proves existence and uniqueness, and calibrates to observed US data. The calibrated model reproduces the spring shift using mobility timing alone. Co-author Cemil Selcuk (Cardiff). DOI: 10.2139/ssrn.6762518.
+
+### Sport science
+
+- [The effects of 8 weeks of functional strength training and blood flow restriction training on lower limb muscle strength, maximal power, and movement quality in male sprinter college athletes](https://windtakemenorth.github.io/publications/#zhu2026effects): Frontiers in Physiology 2026. RCT (n=28) in trained male college sprinters. Adding BFR (cuffs at 50% individualised AOP) to functional strength training produces a specific advantage on anaerobic power (+92.99 W vs FST alone), but no significant between-group difference on overall strength or movement quality. DOI: 10.3389/fphys.2026.1798606.
+
+### Applied machine learning
+
+- [Customer Market Analysis Based on Interval Value Data Dynamic Clustering Algorithm](https://windtakemenorth.github.io/publications/#hu2023customer): ICIICS 2023 (IEEE). Dense-grid initialisation for K-means on interval-valued customer segmentation data. Silhouette +0.1249 over k-means++ and +0.4903 over vanilla K-means in simulation experiments. DOI: 10.1109/ICIICS59993.2023.10421290.
+
+## Blog (long-form research summaries)
+
+- [The spring shift — why the US housing market's seasonal peak moved](https://windtakemenorth.github.io/blog/2026/housing-spring-shift/): walks through the housing seasonality findings and the mobility timing mechanism, with practical implications for sellers and for housing data interpretation.
+
+- [Three things clinical AI evaluation papers usually get wrong](https://windtakemenorth.github.io/blog/2026/clinical-ai-evaluation/): friendly methodological critique of how clinical LLM applications are being evaluated; argues for two-step pipelines, retrieval-grounded evaluation, and subgroup robustness.
+
+- [The digital food environment — why food policy still ignores screens](https://windtakemenorth.github.io/blog/2026/digital-food-environment/): on why ultra-processed food policy needs a digital track, and concrete measurement fixes for TikTok food-marketing surveillance.
+
+## Optional
+
+- [PDFs of all eight papers](https://windtakemenorth.github.io/publications/) are linked from the publications page when rights allow.
+- [BibTeX](https://windtakemenorth.github.io/publications/) is exposed on each paper card for easy citation.
