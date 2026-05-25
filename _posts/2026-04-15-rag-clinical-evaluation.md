@@ -9,7 +9,7 @@ giscus_comments: false
 thumbnail: assets/img/og/rag-clinical-evaluation.png
 ---
 
-*JMIR AI* published a study using fine-tuned LLaMA2 / Flan-T5 for pediatric COVID-19 severity risk assessment, deployed as a conversational app. The evaluation reported AUC.
+Same MPhil exploration period that gave me the *Clinical Imaging* letter — reading widely across clinical AI, evaluation methodology, and infectious-disease epidemiology. *JMIR AI* published a study using fine-tuned LLaMA2 / Flan-T5 for pediatric COVID-19 severity risk assessment, deployed as a conversational app. The evaluation reported AUC.
 
 AUC tells you the classifier is calibrated on held-out data. It does not tell you whether the **natural-language explanations** the deployed app produces are grounded in actual clinical guidance — only whether the underlying yes/no token probabilities discriminate on the dataset.
 

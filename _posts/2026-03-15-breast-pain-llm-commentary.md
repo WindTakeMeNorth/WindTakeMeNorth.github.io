@@ -9,7 +9,7 @@ giscus_comments: false
 thumbnail: assets/img/og/breast-pain-llm.png
 ---
 
-A *Clinical Imaging* paper showed GPT-4 could map free-text breast-pain descriptions to a binary triage recommendation. Sensitivity was reasonable, and the demonstration was useful. But the **end-to-end design bothered me**.
+Starting the MPhil, I deliberately let myself wander a bit before settling — reading across nutritional epi, genomics, sport-physiology, and clinical imaging — partly to know what the next year of work should look like, partly because I just enjoyed the surveying. This letter came out of that wandering period. A *Clinical Imaging* paper crossed my reading list: GPT-4 mapping free-text breast-pain descriptions to a binary triage recommendation. Sensitivity was reasonable, and the demonstration was useful. But the **end-to-end design bothered me**.
 
 Clinical reasoning for breast pain does not go directly from "free text" to "refer / don't refer." It goes via intermediate attributes — focality, cyclicity, associated red-flag features (mass, skin changes, lymphadenopathy) — and only then to a risk-stratified decision. An end-to-end LLM that skips attribute extraction is asking the model to implicitly infer features that are neither extracted nor verifiable.
 
