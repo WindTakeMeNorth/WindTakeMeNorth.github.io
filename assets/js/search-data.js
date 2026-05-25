@@ -23,37 +23,81 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-the-digital-food-environment-why-food-policy-still-ignores-screens",
+        },{id: "post-bfr-with-sprinters-a-collaborative-rct",
         
-          title: "The digital food environment — why food policy still ignores screens",
+          title: "BFR with sprinters — a collaborative RCT",
         
-        description: "Food-environment policy is still designed for what&#39;s on the street corner. In 2026 exposure is also shaped by what&#39;s on the screen. Here is the gap, and a measurement framework that could close it.",
+        description: "Eight-week RCT on functional strength training with vs without blood-flow restriction.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/digital-food-environment/";
+            window.location.href = "/blog/2026/bfr-sprinters-collab/";
           
         },
-      },{id: "post-three-things-clinical-ai-evaluation-papers-usually-get-wrong",
+      },{id: "post-food-policy-is-still-regulating-streets-we-wrote-to-the-lancet-about-screens",
         
-          title: "Three things clinical AI evaluation papers usually get wrong",
+          title: "Food policy is still regulating streets — we wrote to The Lancet about...",
         
-        description: "A friendly methodological critique of how clinical LLM applications are being evaluated, drawn from two recent commentaries in JMIR AI and Clinical Imaging.",
+        description: "Lancet correspondence arguing UPF policy needs an explicit digital track.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/clinical-ai-evaluation/";
+            window.location.href = "/blog/2026/upf-lancet-correspondence/";
           
         },
-      },{id: "post-the-spring-shift-why-the-us-housing-market-39-s-seasonal-peak-moved",
+      },{id: "post-clinical-llm-apps-need-retrieval-grounded-evaluation-not-just-auc",
         
-          title: "The spring shift — why the US housing market&#39;s seasonal peak moved",
+          title: "Clinical LLM apps need retrieval-grounded evaluation, not just AUC",
         
-        description: "For thirty years US house prices peaked in May or June. Since 2021 they peak in March or April. Here is what changed, why it matters, and what to do about it.",
+        description: "Letter in JMIR AI on evaluating conversational clinical LLM systems.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/housing-spring-shift/";
+            window.location.href = "/blog/2026/rag-clinical-evaluation/";
+          
+        },
+      },{id: "post-end-to-end-llm-clinical-triage-misses-the-steps-that-matter",
+        
+          title: "End-to-end LLM clinical triage misses the steps that matter",
+        
+        description: "Commentary in Clinical Imaging on a GPT-4 breast-pain triage paper.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/breast-pain-llm-commentary/";
+          
+        },
+      },{id: "post-from-a-cambridge-nutritional-epi-class-to-a-letter-in-phn",
+        
+          title: "From a Cambridge nutritional epi class to a letter in PHN",
+        
+        description: "A measurement objection to TikTok food-marketing surveillance studies, written from MPhil coursework.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/tiktok-exposure-cambridge-class/";
+          
+        },
+      },{id: "post-from-data-to-mechanism-the-housing-seasonality-follow-up-with-cemil",
+        
+          title: "From data to mechanism — the housing seasonality follow-up with Cemil",
+        
+        description: "Working paper extending Ngai-Tenreyro to monthly frequency. Mobility timing alone explains the spring shift.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/housing-mobility-follow-up/";
+          
+        },
+      },{id: "post-my-first-journal-paper-started-as-a-ucl-undergrad-project",
+        
+          title: "My first journal paper — started as a UCL undergrad project",
+        
+        description: "How the US housing seasonality paper began as STAT0035 at UCL Data Science and ended up in Real Estate (MDPI).",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/housing-seasonality-first-paper/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -65,6 +109,17 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+          
+        },
+      },{id: "post-where-i-started-a-ucl-undergrad-project-on-k-means-initialisation",
+        
+          title: "Where I started — a UCL undergrad project on K-means initialisation",
+        
+        description: "My first published paper. Final-year project at UCL Data Science, ICIICS 2023.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/customer-clustering-ucl-stat/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
