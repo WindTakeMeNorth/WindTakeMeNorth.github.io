@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-bfr-with-sprinters-a-collaborative-rct",
+        },{id: "post-an-accidental-international-team-and-our-first-epidemic-forecasting-paper",
+        
+          title: "An accidental international team — and our first epidemic-forecasting paper",
+        
+        description: "How a friendship at Peterhouse, a hometown coincidence with Dalian, and three time zones turned into EpiMap-LLM and a paper in Frontiers in Public Health.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/epidemic-forecasting-three-cities/";
+          
+        },
+      },{id: "post-bfr-with-sprinters-a-collaborative-rct",
         
           title: "BFR with sprinters — a collaborative RCT",
         

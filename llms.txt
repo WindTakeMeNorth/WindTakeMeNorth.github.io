@@ -17,6 +17,10 @@
 
 ## Papers (open access where available)
 
+### Epidemic forecasting and surveillance
+
+- [Protocol-aware epidemic forecasting across heterogeneous public health surveillance systems](https://windtakemenorth.github.io/publications/#hu2026protocol): Frontiers in Public Health 14:1829302, May 2026. Co-first authors Yihan Hu (Cambridge) and Jingyuan Han (National Cancer Center / Chinese Academy of Medical Sciences and Peking Union Medical College, Department of Cancer Prevention and Control); co-author Mingxin Liu (University of Tokyo, Department of Health Communication). We propose EpiMap-LLM, a parameter-efficient framework that connects numerical time-series representations with a frozen language-model backbone and lightweight trainable components, injecting protocol-aware tokens as context. Tested on JHU CSSE COVID-19 (daily) and CDC influenza hospitalization (weekly) surveillance, EpiMap-LLM consistently improves MAE and RMSE over strong baselines, with the largest gains where reporting irregularities are worst. DOI: 10.3389/fpubh.2026.1829302.
+
 ### Clinical AI evaluation
 
 - [Toward Retrieval-Grounded Evaluation for Conversational Large Language Model-Based Risk Assessment](https://windtakemenorth.github.io/publications/#hu2026retrieval): JMIR AI 2026. Argues that conversational clinical LLM applications should be evaluated under a retrieval-grounded protocol (citation faithfulness, evidence-grounded correctness, subgroup robustness) alongside AUC. DOI: 10.2196/90759.
