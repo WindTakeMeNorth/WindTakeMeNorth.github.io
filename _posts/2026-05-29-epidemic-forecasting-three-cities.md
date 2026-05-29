@@ -11,11 +11,11 @@ thumbnail: assets/img/og/epidemic-forecasting.png
 
 I don't usually write blog posts about how a paper happened. This one is an exception, because this one didn't happen the way papers usually do.
 
-## A friendship at Peterhouse
+## How it started — a formal swap
 
-Early in the MPhil, at **Peterhouse**, I met a Chinese friend — **Minghong**. We weren't in the same department; the friendship was made through college, the way friendships at Cambridge so often are. Hall, walks back from supervisions, late-night kettle conversations.
+Early in the MPhil, I met **Minghong** through a **formal swap** between our two colleges. I'm at **Wolfson**; he's at **Peterhouse**. Formal swaps are a Cambridge ritual where colleges trade a handful of students for a black-tie dinner across the dining hall — a low-friction way to meet people outside your own department and your own college.
 
-One evening, almost in passing, Minghong mentioned his older brother **Mingxin Liu** was doing research in the **Department of Health Communication at the University of Tokyo's Graduate School of Medicine**. I filed it away — half curious, half just glad to know.
+We ended up at the same table. The conversation kept going after dinner, and over the next few weeks Minghong mentioned, in passing, that his older brother **Mingxin Liu** was a researcher in the **Department of Health Communication at the University of Tokyo's Graduate School of Medicine**. I filed it away.
 
 ## A Dalian coincidence
 
